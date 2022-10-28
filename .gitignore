@@ -141,3 +141,4 @@ static/
 
 .vscode
 archivosNecesarios.txt
+/env*
